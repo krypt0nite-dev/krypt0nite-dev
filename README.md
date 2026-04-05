@@ -33,3 +33,7 @@ Pursuing a career in Tech - Building intelligent AI systems from the independenc
 <ul>
   <li><b>🤖 <a href="">Discord-Server-AI</a></b>&nbsp; - &nbsp;Implementation of AI to generate and manage your discord community.</li>
 </ul>
+<h2>Philosophy</h2>
+<blockquote>
+"The hottest new programming language is English." — Andrej Karpathy
+</blockquote>
